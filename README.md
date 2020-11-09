@@ -12,5 +12,7 @@ Adding new Baskerville file and applied my first CSS styling.
 History of Type
 ===============
 [Version 1](https://eleventhirty.github.io/john_baskerville/history-one.html) 
+Marking up some plain text with HTML5.
 
-
+[Version 2](https://eleventhirty.github.io/john_baskerville/history-two.html) 
+Adding CSS styling, nav and links to second version.
