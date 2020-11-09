@@ -30,8 +30,8 @@ p, blockquote {
 
 h1 {
     font-size: 3.827em;
-    margin-top: 3em;
-    margin-bottom: 0.1em;
+    margin-top: 2em;
+ 
 }
 
 h2 {
@@ -43,7 +43,7 @@ blockquote {
     font-size: 1.414em;
     color: #8f0040;
     hanging-punctuation: first;
-    text-indent: -0.44em;
+    text-indent: -0.42em;
 }
 
 blockquote cite {
@@ -61,6 +61,56 @@ header p {
     font-size: 1.3em;
 }
 
+/*--- STYLING LINKS ---*/
+a {
+    color: #8f0040;
+    text-decoration: none;
+}
+a:hover {
+    color: green;
+    border-bottom: 1px dotted;
+}
+
+/*--- NAVIGATION ---*/
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #8f0040;
+    padding: 1em 0;
+    font-size: 0.75em;
+}
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    background: none;
+}
+
+nav a {
+    color: #fdfdfd
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: #fa83b9;
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+
+
+
+
+/*--- FOOTER ---*/
 footer {
     text-align: center;
     font-size: 0.707em;
