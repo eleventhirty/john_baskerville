@@ -102,9 +102,14 @@ nav a {
     color: #fdfdfd
 }
 
+nav a:visited {
+    color: #fdfdfd
+}
+
+
 nav a:hover {
     border-bottom: none;
-    color: #a43366;
+    color: #fc8ebf;
     transition: all 0.3s ease-in-out;
 }
 
