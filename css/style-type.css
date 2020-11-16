@@ -19,8 +19,7 @@ body {
     margin: auto;
     background: #fafafa;
     color: #333;
-   /* font-family: 'Libre Baskerville', serif; */
-   font-family: 'Roboto Slab', serif;
+    font-family: 'Playfair Display', serif;
 
 }
 
@@ -30,14 +29,15 @@ h1, h2, h3 {
     font-weight: normal;
     color: rgb(120, 143, 4);
     text-align: center;
-    font-weight: 900;
+    font-weight: 700;
 }
 /* p {font-family: 'Open Sans', sans-serif;} */
 
 p  {
     margin-bottom: 1.5em;
     line-height: 1.4;
-    font-weight: 400;
+    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
 }
 
 blockquote {
@@ -56,13 +56,14 @@ margin: 3em 0 1em 0}
 h3 {font-size: 1.414em;
 margin-bottom: 1.5em;}
 
-b {font-weight: 500}
+b, strong {font-weight: 400}
 
 blockquote {
    font-size: 1.414em;
    hanging-punctuation: first;
    text-indent: -0.44em;
    color:  #8F0040;
+   font-weight: 700;
 }
 
 blockquote cite {
