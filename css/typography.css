@@ -47,7 +47,7 @@ hr {
 h1, h2{
     font-weight: normal;
     text-align: center;
-    color: #73B009}
+    color: rgb(88, 136, 5)}
 
 p, li {
     line-height: 1.4em;
@@ -94,14 +94,14 @@ blockquote cite {
 .leader {
     font-family: mrs-eaves, serif; /*--- A little bit of a cheat here. As this version of Baskerville doesn’t have old style numerals I have substituted Mrs Eaves ---*/
    text-transform: uppercase;
-    color:#73B009;
+    color: rgb(88, 136, 5);
     font-variant-numeric: oldstyle-nums; 
 }
 
 
 /*----------------- LINKS--------------------*/
 
-a {color: #73B009;
+a {color: rgb(88, 136, 5);
 text-decoration: none}
 a:hover  {
     color: #000;
@@ -195,7 +195,7 @@ a:hover  {
 .andfinally p {line-height: 1.4}
 
 .dropcap {
-   color: #73B009;
+   color: rgb(88, 136, 5);
 }
    
     
