@@ -27,6 +27,3 @@ Additional Content
 The content below is for reference only, I am not expecting you to create any of this.
 
 [Web Typography](https://eleventhirty.github.io/john_baskerville/typographic-details.html)  
-
-[Web Typography](https://eleventhirty.github.io/john_baskerville/typographic-details.html)   
-
