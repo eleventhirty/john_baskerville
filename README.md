@@ -21,6 +21,10 @@ Marking up some plain text with HTML5.
 [Version 2](https://eleventhirty.github.io/john_baskerville/history-two.html) 
 Adding CSS styling, nav and links to second version.
 
+[Version 3](https://eleventhirty.github.io/john_baskerville/history-three.html) 
+Added Google fonts.
+
+
 Additional Content
 ==================
 
