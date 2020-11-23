@@ -12,6 +12,8 @@ Adding new Baskerville file and applied my first CSS styling.
 *02 November 2020*  
 Adding my first proper web page marking up some plain text with HTML5. 
 
+[CSS Exercise](https://eleventhirty.github.io/john_baskerville/exercss.html) 
+
 History of Type
 ===============
 [Version 1](https://eleventhirty.github.io/john_baskerville/history-one.html) 
@@ -31,3 +33,4 @@ Additional Content
 The content below is for reference only, I am not expecting you to create any of this.
 
 [Web Typography](https://eleventhirty.github.io/john_baskerville/typographic-details.html)  
+
