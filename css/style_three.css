@@ -10,7 +10,7 @@
 /*------- MAIN STYLING ----*/
 body {
     width: 80%;
-    max-width: 700px;
+    max-width: 600px;
     margin: auto;
     background: #fdfdfd;
     color: #333;
@@ -168,6 +168,13 @@ table, td {
     border: 2px solid #fdfdfd
 }
 
+/*----- IMAGES -----*/
+img {
+    display: block;
+    margin: 4em 0;
+    padding: 0;
+    max-width: 100%;
+}
 
 /*--- FOOTER ---*/
 footer {
