@@ -4,6 +4,7 @@
             max-width: 700px;
             margin: auto;
             padding: 0 30px;
+            
             }
       
 /*----- ESTABLISHED TYPOGRAPHIC HIERARCHY USING TIM BROWN'S http://www.modularscale.com/ EXAMPLE HERE USING 1:5 SCALE -----*/ 
@@ -11,6 +12,7 @@
         h1, h2, h3, blockquote, .dropcap {color: rgb(0, 177, 160)}    
 
         h1, h2, h3 {
+            
             margin: 0; 
             font-weight: normal;
             }
@@ -19,7 +21,9 @@
         
         h1 {font-size: 5.063em;}
         
-        h2 {font-style: italic;
+        h2 {
+            font-family: 'Libre Baskerville', serif;
+            font-style: italic;
             font-size: 2.25em;
             padding-bottom: 30px;
             margin: -.5em 0 0 .5em}
@@ -59,10 +63,13 @@
 
         .version1 blockquote {line-height: 1.4}
 
+        .version1 h2 {font-family: 'Libre Baskerville', serif;}
+
 /*-------- SETTING UP STYLING FOR VERSION 2 --------*/
        
-    .version2 {
-        font-family: 'Open Sans', sans-serif;} 
+    .version2 {font-family: 'Open Sans', sans-serif;} 
+
+.version2 h2 {font-family: 'Open Sans', sans-serif;}
         
     .introcaps {
         text-transform: uppercase;}
@@ -81,9 +88,9 @@
   
     .version3 {font-family: 'Raleway', sans-serif;}
       
-    .version3 h1, h2, h3, blockquote {font-family: 'Vollkorn', serif;} 
+   .version3 h1, h2, h3, blockquote {font-family: 'Vollkorn', serif;} 
 
-    
+  
 
       hr {
         margin: 100px 0;
@@ -93,3 +100,4 @@
         border: 0 none;
         }
         
+       
