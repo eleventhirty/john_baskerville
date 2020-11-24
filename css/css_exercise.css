@@ -68,6 +68,7 @@
 /*-------- SETTING UP STYLING FOR VERSION 2 --------*/
        
     .version2 {font-family: 'Open Sans', sans-serif;} 
+
         
     .introcaps {
         text-transform: uppercase;}
@@ -90,7 +91,7 @@
 
    /*--- FOR SOME REASON THE LINE ABOVE SCREWS UP THE H2 AND BLOCKQUOTE ON VERSION 2 WHICH NECESSITATES THE LINE BELOW ---*/
 
-   .version2 h2,  {font-family: 'Open Sans', sans-serif;}
+   .version2 h2  {font-family: 'Open Sans', sans-serif;}
    section blockquote {font-family: 'Libre Baskerville', serif;}
    .version2 h3 {font-family: 'Open Sans', sans-serif;}
    
