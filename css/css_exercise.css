@@ -63,7 +63,7 @@
 
         .version1 blockquote {line-height: 1.4}
 
-        .version1 h2, blockquote {font-family: 'Libre Baskerville', serif;}
+        .version1 h2 {font-family: 'Libre Baskerville', serif;}
 
 /*-------- SETTING UP STYLING FOR VERSION 2 --------*/
        
@@ -91,6 +91,7 @@
    /*--- FOR SOME REASON THE LINE ABOVE SCREWS UP THE H2 AND BLOCKQUOTE ON VERSION 2 WHICH NECESSITATES THE LINE BELOW ---*/
 
    .version2 h2,  {font-family: 'Open Sans', sans-serif;}
+   .version1 blockquote {font-family: 'Libre Baskerville', serif;}
    .version2 h3 {font-family: 'Open Sans', sans-serif;}
    
   
