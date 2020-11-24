@@ -87,11 +87,12 @@
    .version3 {font-family: 'Raleway', sans-serif;}
       
    .version3 h1, h2, h3, blockquote {font-family: 'Vollkorn', serif;} 
+
    /*--- FOR SOME REASON THE LINE ABOVE SCREWS UP THE H2 AND BLOCKQUOTE ON VERSION 2 WHICH NECESSITATES THE LINE BELOW ---*/
 
    .version2 h2,  {font-family: 'Open Sans', sans-serif;}
    .version2 h3 {font-family: 'Open Sans', sans-serif;}
-   .version2 blockquote {font-family: 'Open Sans', sans-serif;}
+   
   
 
       hr {
@@ -102,4 +103,4 @@
         border: 0 none;
         }
         
-       
+        .version2 blockquote {font-family: 'Open Sans', sans-serif;}
