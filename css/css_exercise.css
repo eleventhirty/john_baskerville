@@ -63,7 +63,7 @@
 
         .version1 blockquote {line-height: 1.4}
 
-        .version1 h2 {font-family: 'Libre Baskerville', serif;}
+        .version1 h2, blockquote {font-family: 'Libre Baskerville', serif;}
 
 /*-------- SETTING UP STYLING FOR VERSION 2 --------*/
        
